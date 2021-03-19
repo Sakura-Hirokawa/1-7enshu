@@ -16,3 +16,19 @@
 .headline {
   padding: 20px;
 }
+
+main {
+  width: 840px;
+  display: flex;
+  justify-content: right;
+  margin: 0 auto;
+}
+
+.blog-box {
+  padding: 50px 0;
+}
+
+.blog-item {
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+}
